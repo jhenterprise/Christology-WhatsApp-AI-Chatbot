@@ -1,0 +1,30 @@
+{
+  "name": "christology_chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@langchain/core": "^0.3.29",
+    "@langchain/google-genai": "^0.1.6",
+    "@langchain/google-vertexai": "^0.1.7",
+    "@langchain/openai": "^0.3.17",
+    "@langchain/textsplitters": "^0.1.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.11",
+    "nodemon": "^3.1.9",
+    "openai": "^4.78.1",
+    "puppeteer": "^23.11.1",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
