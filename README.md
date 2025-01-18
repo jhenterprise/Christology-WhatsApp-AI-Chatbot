@@ -30,8 +30,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/whatsapp-ai-chatbot.git
-   cd whatsapp-ai-chatbot
+   git clone https://github.com/jhenterprise/Christology-WhatsApp-AI-Chatbot
+   cd Christology-WhatsApp-AI-Chatbot
    ```
 
 2. **Install dependencies:**
